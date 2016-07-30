@@ -15,7 +15,7 @@ return [
     'admin.panel'   => 'Admin Panel',
     'dashboard'     => 'Dashboard',
     'all.rights'    => "<strong>Copyright © 2014-2016 <a href='http://lavalite.org' target='_blank'>Lavalite</a>.</strong> All rights reserved.",
-    'version'       => '<b>Version</b> Develop',
+    'version'       => '<b>Version</b> 4.3',
 
     'add'           => 'Add',
     'back'          => 'Back',
